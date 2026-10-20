@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ポモドーロタイマー</string>
+    <string name="phase_work">作業</string>
+    <string name="phase_break">休憩</string>
+    <string name="status_running">計測中</string>
+    <string name="status_paused">停止中</string>
+    <string name="start">開始</string>
+    <string name="pause">一時停止</string>
+    <string name="reset">リセット</string>
+    <string name="skip">スキップ</string>
+    <string name="rounds_label">完了ラウンド</string>
+    <string name="rounds_value">%1$d 回</string>
+    <string name="clear_rounds">クリア</string>
+    <string name="cycle_hint">25分の作業と5分の休憩をくり返します</string>
+</resources>
